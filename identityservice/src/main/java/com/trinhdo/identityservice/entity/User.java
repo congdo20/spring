@@ -1,4 +1,4 @@
-package com.trinhdo.identityservice.identity;
+package com.trinhdo.identityservice.entity;
 
 import jakarta.persistence.*;
 
